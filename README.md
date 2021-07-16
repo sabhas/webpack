@@ -2,11 +2,13 @@
 
 ## steps
 
--- git clone https://github.com/sabhas/webpack.git
+-- `git clone https://github.com/sabhas/webpack.git`
 
--- npm i
+-- `cd webpack` 
+
+-- `npm i`
 
 ## scripts
 
-- npm start // for running in dev mode.
-- npm run build // create a production build
+- `npm start` // for running in dev mode.
+- `npm run build` // create a production build
