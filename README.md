@@ -1,2 +1,11 @@
 # webpack
-This repository was created for doing small exercises on Webpack. Each commit is a small task related to webpack.
+
+## steps
+
+-- git clone https://github.com/sabhas/webpack.git
+-- npm i
+
+## scripts
+
+- npm start // for running in dev mode.
+- npm run build // create a production build
